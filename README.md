@@ -1,4 +1,4 @@
-[README(3).md](https://github.com/user-attachments/files/29403733/README.3.md)
+[README.md](https://github.com/user-attachments/files/29403733/README.3.md)
 # Pastel Water Leak Card
 
 Custom Lovelace card per Home Assistant per il monitoraggio di sensori di
